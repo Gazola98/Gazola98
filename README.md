@@ -1,4 +1,4 @@
-### Sejam bem vindos, Eu sou o Gabriel ! 🙋🏻
+### Sejam bem vindos, Eu sou o Gabriel !
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabriel.pereiraa02)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-pereira-b1677a211/)
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,java,nodejs,vue,postgres,docker,mongodb,godot&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,java,nodejs,vue,postgres,docker,mongodb" />
   </a>
 </p>
 
