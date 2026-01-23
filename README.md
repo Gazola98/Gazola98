@@ -16,4 +16,4 @@
   </a>
 </p>
 
-Apaixonado por Tecnologia e Games, lutando no dia a dia para aprender cada vez mais sobre esse mundo da Programação! ❤️
+Apaixonado por Tecnologia e Games, lutando a cada dia para aprender mais sobre esse mundo do Programador!
