@@ -4,15 +4,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-pereira-b1677a211/)
 
 
-![Gazola GitHub stats](https://github-readme-stats.vercel.app/api?username=Gazola98&show_icons=true&theme=tokyonight)
-
-
-
 ## Technologies I'm studying 🚀
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,java,vue,react,tailwind,postgres,docker" />
+    <img src="https://skillicons.dev/icons?i=ts,java,spring,vue,react,tailwind,postgres,docker" />
   </a>
 </p>
 
